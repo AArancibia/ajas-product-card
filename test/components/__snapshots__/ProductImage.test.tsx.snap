@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage should show the component with a correct title 1`] = `
+<img
+  alt="Product image"
+  className="productImg undefined"
+  src="http://alexis.com"
+/>
+`;
+
+exports[`ProductImage show show the right image for product 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product image"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;

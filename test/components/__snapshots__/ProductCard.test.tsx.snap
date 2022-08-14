@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage should show the component with a correct title 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Hola
+  </h1>
+</div>
+`;
+
+exports[`ProductImage should show the component with a correct title 2`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Hola
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`ProductImage should show the component with a correct title 3`] = `"1"`;
